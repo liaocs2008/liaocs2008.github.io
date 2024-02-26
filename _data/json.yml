@@ -1,0 +1,28 @@
+- key: Name
+  value: leo
+- key: Description
+  value:
+    - hi folks!
+    - welcome to my corner of the internet.
+  typed: true
+- key: Technical Interests
+  value:
+    - deep learning applications (cv, nlp, medical, etc)
+    - game development (resource generation, AI bot)
+    - parallel programming (cuda, sse)
+    - computer security (capture the flag)
+- key: Hobbies
+  value:
+    - gaming (FPS, tower defense)
+    - hiking (in the mountains, maybe some swimming)
+    - emerging artist (start drawing and Ukulele)
+- key: Profiles
+  value:
+    - value: LinkedIn
+      url: https://www.linkedin.com/in/liaocs2008
+    - value: Scholar
+      url: https://scholar.google.com/citations?user=aJOAmTEAAAAJ&hl=en
+- key: Quotes
+  value:
+    - 仰观宇宙之大，俯察品类之盛。所以游目骋怀，足以极视听之娱，信可乐也
+    - There is no script. Live your life. Soak it all in.
