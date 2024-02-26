@@ -11,10 +11,18 @@
     - game development (resource generation, AI bot)
     - parallel programming (cuda, sse)
     - computer security (capture the flag)
+- key: Math (I wish I learned)
+  value:
+    - value: applied math foundations
+      url: https://math.stackexchange.com/questions/901527/applied-math-foundational-books
+    - value: The Mathematics Autodidact’s Aid
+      url: https://www.ams.org/notices/200510/comm-fowler.pdf
+    - value: Christian Kroer's math reading list
+      url: https://www.columbia.edu/~ck2945/post/reading-list/
 - key: Hobbies
   value:
     - gaming (FPS, tower defense)
-    - hiking (in the mountains, maybe some swimming)
+    - hiking (in the mountains, maybe with some swimming)
     - emerging artist (start drawing and Ukulele)
 - key: Profiles
   value:
